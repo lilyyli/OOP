@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ScannerDemo1
+comment0.text=\r\n\ This\ class\ is\ an\ example\ of\ how\ to\ use\ a\ scanner\ for\ getting\ input.\r\n\r\n\ @author\ (Lily\ Li)\r\n\ @version\ (9.21.18)\r\n
+comment1.params=
+comment1.target=ScannerDemo1()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ScannerDemo1\r\n
+numComments=2

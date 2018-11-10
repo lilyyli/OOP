@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Ch1_Programs
+comment0.text=\r\n\ This\ program\ displays\ a\ flag\ and\ converts\ a\ decimal\ number\ to\ binary.\r\n\r\n\ @Lily\ Li\r\n\ @8.31.18\r\n
+comment1.params=
+comment1.target=Ch1_Programs()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Program_1\r\n
+comment2.params=
+comment2.target=void\ Flag()
+comment3.params=decimal
+comment3.target=int\ Convert(int)
+numComments=4

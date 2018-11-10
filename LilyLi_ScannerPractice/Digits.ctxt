@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Digits
+comment0.text=\r\n\ This\ class\ displays\ the\ tens\ and\ ones\ digit\ of\ a\ 2\ digit\ number\ provided\ by\ the\ user.\r\n\r\n\ @author\ (Lily\ Li)\r\n\ @version\ (10.02.18)\r\n
+comment1.params=
+comment1.target=Digits()
+comment2.params=
+comment2.target=void\ displayDigits()
+numComments=3

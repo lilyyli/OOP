@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CelciusConverterGUI
+comment0.text=\r\n\ This\ GUI\ will\ convert\ celsius\ to\ fahrenheit.\r\n\r\n\ @author\ (Lily\ Li)\r\n\ @version\ (11.5.18)\r\n
+comment1.params=
+comment1.target=CelciusConverterGUI()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CelciusConverterGUI\r\n
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

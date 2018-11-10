@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Cellphone
+comment0.text=\r\n\ This\ program\ creates\ a\ class\ for\ Cellphone.\r\n\ This\ program\ sets\ the\ cellphone's\ memory,\ processor,\ longlife\ battery,\ and\ cost.\r\n\r\n\ @author\ (Lily\ Li)\r\n\ @version\ (10.15.18)\r\n
+comment1.params=
+comment1.target=Cellphone()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Computer\r\n
+comment2.params=memory\ processor\ longlife
+comment2.target=Cellphone(int,\ java.lang.String,\ boolean)
+comment3.params=
+comment3.target=boolean\ getLonglife()
+comment4.params=
+comment4.target=java.lang.String\ getProcessor()
+comment5.params=
+comment5.target=int\ getMemory()
+comment6.params=
+comment6.target=void\ printDetails()
+comment7.params=
+comment7.target=double\ getCost()
+comment8.params=
+comment8.target=double\ calcCost()
+numComments=9

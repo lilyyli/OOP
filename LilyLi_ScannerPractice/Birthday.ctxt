@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Birthday
+comment0.text=\r\n\ This\ is\ a\ game\ involving\ the\ numbers\ \r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Birthday()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BirthdayGame\r\n
+comment2.params=
+comment2.target=void\ BirthdayGame()
+numComments=3

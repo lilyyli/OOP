@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TimeConversion
+comment0.text=\r\n\ This\ class\ displays\ the\ time\ in\ hours\ and\ minutes.\r\n\r\n\ @author\ (Lily\ Li)\r\n\ @version\ (10.02.18)\r\n
+comment1.params=
+comment1.target=TimeConversion()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TimeConversion\r\n
+comment2.params=
+comment2.target=void\ convertTime()
+numComments=3

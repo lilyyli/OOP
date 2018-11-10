@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Lab
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Lab1\ here.\r\n\r\n\ @author\ (Lily\ Li)\r\n\ @version\ (9.24.18)\r\n
+comment1.params=
+comment1.target=Lab()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Lab\r\n
+comment2.params=S1\ S2
+comment2.target=void\ changeCase(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ This\ method\ finds\ all\ the\ occurrences\ of\ S2\ in\ S1\r\n\ and\ replaces\ it\ to\ capitalized\ S2\ and\ displays\ the\ string\ S1\r\n
+comment3.params=S1\ S2
+comment3.target=void\ countString(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ This\ method\ counts\ and\ displays\ how\ many\ times\ S2\ appears\ in\ S1\r\n
+comment4.params=S1\ S2
+comment4.target=void\ genPassword(java.lang.String,\ java.lang.String)
+comment4.text=\ \r\n\ This\ method\ creats\ a\ password\ from\ the\ two\ strings\r\n\ The\ first\ 2\ characters\ of\ S1\ are\ in\ lowercase,\r\n\ followed\ by\ special\ characters\ @*\r\n\ and\ then\ followed\ by\ S2\r\n
+comment5.params=S1\ S2
+comment5.target=void\ addDelete(java.lang.String,\ java.lang.String)
+comment5.text=\r\n\ This\ method\ creates\ and\ displays\ a\ string.\r\n\ The\ string\ is\ S1\ with\ all\ occurences\ of\ S2\ removed\ if\ S2\ is\ a\ letter.\r\n\ If\ S2\ is\ a\ digit,\ all\ occurences\ of\ S2\ are\ removed,\ \r\n\ and\ the\ next\ is\ repeated\ as\ many\ times\ as\ S2\r\n
+numComments=6

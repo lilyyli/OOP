@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Dice
+comment0.text=\r\n\ This\ creates\ a\ dice\ for\ the\ game.\r\n\r\n\ @author\ (Lily\ Li)\r\n\ @version\ (10.01.18)\r\n
+comment1.params=
+comment1.target=Dice()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dice\r\n
+comment10.params=
+comment10.target=void\ random()
+comment11.params=
+comment11.target=int\ getValue()
+comment2.params=
+comment2.target=void\ dice1()
+comment3.params=
+comment3.target=void\ dice2()
+comment4.params=
+comment4.target=void\ dice3()
+comment5.params=
+comment5.target=void\ dice4()
+comment6.params=
+comment6.target=void\ dice5()
+comment7.params=
+comment7.target=void\ dice6()
+comment8.params=distance
+comment8.target=void\ moveVertical(int)
+comment9.params=distance
+comment9.target=void\ moveHorizontal(int)
+numComments=12

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Write_File
+comment0.text=\r\n\ This\ program\ writes\ a\ text\ file.\r\n\r\n\ @author\ (Lily\ Li)\r\n\ @version\ (10.01.18)\r\n
+comment1.params=
+comment1.target=Write_File()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Write_File\r\n
+comment2.params=s
+comment2.target=void\ write(java.lang.String)
+comment3.params=
+comment3.target=void\ close()
+numComments=4

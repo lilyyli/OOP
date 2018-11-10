@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Population
+comment0.text=\r\n\ A\ class\ for\ methods\ involving\ the\ Texas\ population.\r\n\r\n\ @author\ (Lily\ Li)\r\n\ @version\ (10.05.18)\r\n
+comment1.params=arg
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ populate()
+comment3.params=
+comment3.target=void\ printData()
+comment4.params=
+comment4.target=void\ findTotal()
+comment5.params=
+comment5.target=void\ showLeadingDigit()
+comment6.params=
+comment6.target=void\ randomCounty()
+comment7.params=
+comment7.target=void\ analysis()
+numComments=8

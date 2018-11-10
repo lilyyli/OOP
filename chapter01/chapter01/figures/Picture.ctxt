@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Picture
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Picture\ here.\r\n\r\n\ @Lily\ Li\r\n\ @8/27/18\r\n
+comment1.params=
+comment1.target=Picture()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Picture\r\n
+comment2.params=
+comment2.target=void\ draw()
+comment2.text=\r\n\ Draw\ this\ picture.\r\n
+comment3.params=
+comment3.target=void\ sunSet()
+comment3.text=\ \r\n\ Make\ the\ sun\ set\r\n
+comment4.params=
+comment4.target=void\ setBlackAndWhite()
+comment4.text=\r\n\ Change\ this\ picture\ to\ black/white\ display\r\n
+comment5.params=
+comment5.target=void\ setColor()
+comment5.text=\r\n\ Change\ this\ picture\ to\ use\ color\ display\r\n
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=String_1
+comment0.text=\r\n\ This\ class\ works\ with\ different\ methods\ of\ the\ string\ class\r\n\r\n\ @author\ (Lily\ Li)\r\n\ @version\ (9.14.18)\r\n
+comment1.params=
+comment1.target=String_1()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ String_1\r\n
+comment2.params=x
+comment2.target=void\ maxRun(java.lang.String)
+comment2.text=\r\n\ Method\ testing\ for\ the\ longest\ run\ in\ a\ string\r\n
+comment3.params=x
+comment3.target=void\ Expandstring(java.lang.String)
+comment4.params=s
+comment4.target=void\ StringExample(java.lang.String)
+numComments=5
